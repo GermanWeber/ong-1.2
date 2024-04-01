@@ -1,0 +1,49 @@
+.bc-black{
+    background-color: black;
+}
+.bc-red{
+    background-color: rgb(208, 6, 6);   
+}
+.bc-grey{
+    background-color: rgb(36, 41, 46);
+    border-radius: 5rem;
+}
+.text-white{
+    color: rgb(255, 255, 255);
+}
+
+.imagen{
+    border-radius: 50rem;
+}
+
+.link { 
+    color: white; 
+    text-decoration: none; 
+    font-size: 40px;
+    cursor: pointer;   
+    }
+    .link:hover {
+      color: rgb(237, 8, 8); 
+      size: 400px;
+      transition: 0.2s ease-in; 
+    }
+.centrar{
+    display: flex;
+    justify-content: center;
+}
+
+.centrar-link{
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+
+.activar{
+    background-color: rgb(36, 41, 46);
+}
+.activar:hover{
+    color: white;
+    background-color: rgb(40, 47, 53);
+    transition: 0.3s ease-in; 
+    
+}
