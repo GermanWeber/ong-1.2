@@ -47,3 +47,8 @@
     transition: 0.3s ease-in; 
     
 }
+
+span{
+    font-weight: bold;
+    font-style: oblique;
+}
